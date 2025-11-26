@@ -1,8 +1,7 @@
-const student = {
-    firstName:'luka'
-    lastName:'Nikolaishvili'
-    age:21
-    email:luka@gmail.com
-    marks:94
+const person1 = {
+    age:87
+}
+const pesron2 = {
+    age:67
 };
-console.log(student.firstName);
+console.log(person1,person2);

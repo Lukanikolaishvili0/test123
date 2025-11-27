@@ -1,7 +1,2 @@
-const person1 = {
-    age:87
-}
-const pesron2 = {
-    age:67
-};
-console.log(person1,person2);
+const a87, b65
+console.log(a+b);

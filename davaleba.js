@@ -1,2 +1,3 @@
-const a87, b65
-console.log(a+b);
+for(let i=1; i<7; i++){
+ console.log(i)
+}

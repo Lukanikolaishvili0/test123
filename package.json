@@ -1,0 +1,23 @@
+{
+  "name": "test123",
+  "version": "1.0.0",
+  "description": "text test",
+  "homepage": "https://github.com/Lukanikolaishvili0/test123#readme",
+  "bugs": {
+    "url": "https://github.com/Lukanikolaishvili0/test123/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukanikolaishvili0/test123.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.7.1"
+  }
+}

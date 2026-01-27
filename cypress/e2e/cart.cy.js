@@ -1,6 +1,6 @@
 describe("Cart Tests", () => {
   beforeEach(() => {
-    cy.fixture("testData").as("data");
+    cy.fixture("user").as("data");
   });
 
   it("Should show correct old and new prices", function () {
